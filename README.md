@@ -1,5 +1,19 @@
 # Books-App
-<<<<<<< HEAD
-# Books-App
-=======
->>>>>>> 6ee9ef74f66aba65fabfc9ec083043df3472a653
+Simple Books App using react-redux, redux-thunk & jquery.
+
+####How To Use#####
+Checkout this repo, install dependencies, then start the gulp process with the following:
+
+```
+	> npm install
+	> npm start
+```
+open http://localhost:8080/
+
+
+####Screenshot####
+
+![Screenshot](Capture.PNG)
+
+
+
